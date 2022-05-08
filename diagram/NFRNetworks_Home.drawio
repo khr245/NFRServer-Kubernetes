@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T09:19:50.705Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="b7FSOtM-QtQslvSN8mdp" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T09:23:03.062Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="anYw2BZDhH72A5ady64a" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
     <mxGraphModel dx="364" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -479,12 +479,12 @@
         <mxCell id="cud8JSi5Q64nd5TMTgj2-55" value="※1Gで対応できるものはメインPCから&lt;br&gt;ブリッジ接続か無線" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="610" y="740" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cud8JSi5Q64nd5TMTgj2-56" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="cud8JSi5Q64nd5TMTgj2-36">
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-56" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cud8JSi5Q64nd5TMTgj2-58" target="cud8JSi5Q64nd5TMTgj2-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="910" as="sourcePoint" />
             <mxPoint x="610" y="850" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="910" />
+              <mxPoint x="610" y="840" />
               <mxPoint x="610" y="710" />
             </Array>
           </mxGeometry>
@@ -494,8 +494,8 @@
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cud8JSi5Q64nd5TMTgj2-58" value="適当なハブ(1G)" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;fontColor=#1A1A1A;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="690" y="880" width="120" height="60" as="geometry" />
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-58" value="適当なハブ(1G)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;fontColor=#1A1A1A;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="690" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
