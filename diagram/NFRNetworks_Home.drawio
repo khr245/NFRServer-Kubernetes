@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T11:56:04.168Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="bsay9hfcX4wmY_FyxN1Z" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T12:02:27.435Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="s3gvKBFcJMlQs7aZvoJU" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
-    <mxGraphModel dx="399" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="254" dy="267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,12 +132,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F0cyMqDmB0AHEjMqEv3i-36" value="10G" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="F0cyMqDmB0AHEjMqEv3i-35" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="F0cyMqDmB0AHEjMqEv3i-37" value="GE3" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="F0cyMqDmB0AHEjMqEv3i-35" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F0cyMqDmB0AHEjMqEv3i-38" value="Port1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="F0cyMqDmB0AHEjMqEv3i-35" connectable="0" vertex="1">
+        <mxCell id="F0cyMqDmB0AHEjMqEv3i-38" value="Port1(RJ45)" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="F0cyMqDmB0AHEjMqEv3i-35" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
