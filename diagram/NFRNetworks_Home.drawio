@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T09:07:09.917Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ZTAwFniBPu9HQNj3fyl2" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T09:14:20.439Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="8lorNHsngENrSTYm_8Vz" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
-    <mxGraphModel dx="466" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="524" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,7 +397,7 @@
           <mxGeometry x="545" y="205" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cud8JSi5Q64nd5TMTgj2-37" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="560" y="680" width="200" height="60" as="geometry" />
+          <mxGeometry x="670" y="680" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cud8JSi5Q64nd5TMTgj2-36" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;メインPC&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;fontColor=#FF0000;fillColor=default;align=right;" vertex="1" parent="cud8JSi5Q64nd5TMTgj2-37">
           <mxGeometry width="150" height="60" as="geometry" />
@@ -424,6 +424,45 @@
         </mxCell>
         <mxCell id="cud8JSi5Q64nd5TMTgj2-42" value="TL-SX1005" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="680" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-43" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=3;endFill=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cud8JSi5Q64nd5TMTgj2-42" target="F0cyMqDmB0AHEjMqEv3i-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="540" as="sourcePoint" />
+            <mxPoint x="730" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="540" />
+              <mxPoint x="760" y="540" />
+              <mxPoint x="760" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-45" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=3;endFill=0;entryX=0.633;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="cud8JSi5Q64nd5TMTgj2-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="580" as="sourcePoint" />
+            <mxPoint x="410" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-46" value="10G" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cud8JSi5Q64nd5TMTgj2-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-47" value="LAN4(10G)" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;spacing=7;spacingLeft=-3;" connectable="0" vertex="1" parent="cud8JSi5Q64nd5TMTgj2-45">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-48" value="Port1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;spacing=3;spacingLeft=6;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-49" value="Port2" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;spacing=3;spacingLeft=6;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="410" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-50" value="10G" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="360" y="590" as="geometry">
+            <mxPoint x="57" y="-26" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
