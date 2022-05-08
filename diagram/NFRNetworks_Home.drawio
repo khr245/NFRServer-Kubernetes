@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T11:48:51.586Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="baLxBX5RFHro9_M504Mb" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T11:55:35.021Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="sQh7p_ToWtvJq6TQ5QAk" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
-    <mxGraphModel dx="349" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="399" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,7 +237,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0cyMqDmB0AHEjMqEv3i-74" value="Port2-6(6のみRJ45)" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="F0cyMqDmB0AHEjMqEv3i-72" connectable="0" vertex="1">
+        <mxCell id="F0cyMqDmB0AHEjMqEv3i-74" value="Port3-7(7のみRJ45)" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="F0cyMqDmB0AHEjMqEv3i-72" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F0cyMqDmB0AHEjMqEv3i-81" value="10G" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=default;" parent="F0cyMqDmB0AHEjMqEv3i-72" connectable="0" vertex="1">
@@ -266,7 +266,7 @@
             <mxPoint x="-61" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0cyMqDmB0AHEjMqEv3i-87" value="Port7" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;spacing=-2;" parent="F0cyMqDmB0AHEjMqEv3i-84" connectable="0" vertex="1">
+        <mxCell id="F0cyMqDmB0AHEjMqEv3i-87" value="Port2" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;spacing=-2;" parent="F0cyMqDmB0AHEjMqEv3i-84" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="27" y="14" as="offset" />
           </mxGeometry>
@@ -486,6 +486,9 @@
           <mxGeometry x="780" y="200.00392156862745" as="geometry">
             <mxPoint x="3" y="-21" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AUDLEZrKToav3KagMwGT-6" value="Port9-12" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="720" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
