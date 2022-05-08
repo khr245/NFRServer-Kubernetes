@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T08:42:56.435Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="cziAJD8p5Ahxn58i8B4H" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T08:48:28.686Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="pz0xKFWjiyIe2X6OWNRY" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
     <mxGraphModel dx="493" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,6 +395,15 @@
         </mxCell>
         <mxCell id="cud8JSi5Q64nd5TMTgj2-19" value="&lt;b&gt;&lt;u&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;ProxmoxGroup&lt;br&gt;VM_IP 192.168.10.100~199&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="545" y="205" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="530" y="680" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-36" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;メインPC&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;fontColor=#FF0000;fillColor=default;align=right;" vertex="1" parent="cud8JSi5Q64nd5TMTgj2-37">
+          <mxGeometry width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-35" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=#FFFFFF;fontSize=11;fontColor=#FF0000;fillColor=default;" vertex="1" parent="cud8JSi5Q64nd5TMTgj2-37">
+          <mxGeometry x="10" y="7.2999999999999545" width="45.4" height="45.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
