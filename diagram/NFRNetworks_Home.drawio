@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T09:05:27.113Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="xrh42zbmhPBL4YD-X-nv" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T09:06:33.422Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="QF0-IEfzZXdJ8f3IdbfI" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
-    <mxGraphModel dx="168" dy="176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="466" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -354,7 +354,7 @@
         <mxCell id="F0cyMqDmB0AHEjMqEv3i-125" value="&lt;u style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;iLO&lt;br&gt;192.168.10.55&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontSize=11;fontStyle=1;spacing=2;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="480" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cud8JSi5Q64nd5TMTgj2-1" value="TL-SX1008&lt;br&gt;(Ceph専用ネットワーク)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-1" value="TL-SX1005&lt;br&gt;(Ceph専用ネットワーク)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="550" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cud8JSi5Q64nd5TMTgj2-3" value="&lt;u&gt;IP:192.168.10.1&lt;br&gt;DHCP:192.168.10.201-254&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
