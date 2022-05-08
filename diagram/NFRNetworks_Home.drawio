@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T09:06:33.422Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="QF0-IEfzZXdJ8f3IdbfI" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T09:07:09.917Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ZTAwFniBPu9HQNj3fyl2" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
     <mxGraphModel dx="466" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,7 +390,7 @@
         <mxCell id="cud8JSi5Q64nd5TMTgj2-17" value="&lt;font size=&quot;1&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Server:192.168.10.65&lt;br&gt;Ceph: 192.168.20.14&lt;/span&gt;&lt;br&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="690" y="395" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cud8JSi5Q64nd5TMTgj2-18" value="&lt;font size=&quot;1&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Server:192.168.10.66&lt;br&gt;Ceph: 192.168.20.15&lt;/span&gt;&lt;br&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-18" value="&lt;font size=&quot;1&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Server:192.168.10.66&lt;br&gt;Home: 192.168.1.3&lt;/span&gt;&lt;br&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="690" y="455" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cud8JSi5Q64nd5TMTgj2-19" value="&lt;b&gt;&lt;u&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;ProxmoxGroup&lt;br&gt;VM_IP 192.168.10.100~199&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=none;" vertex="1" parent="1">
