@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T10:06:35.835Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="yGhW6DTBoY7uviHkdnhJ" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T11:19:32.037Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="E1xb6oRNQGhTC6WCjprO" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
-    <mxGraphModel dx="493" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="419" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
         <mxCell id="F0cyMqDmB0AHEjMqEv3i-27" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="30" y="540" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cqdr3iPlKtyxnXz1tikr-1" value="" style="group" vertex="1" connectable="0" parent="F0cyMqDmB0AHEjMqEv3i-27">
+        <mxCell id="Cqdr3iPlKtyxnXz1tikr-1" value="" style="group" parent="F0cyMqDmB0AHEjMqEv3i-27" vertex="1" connectable="0">
           <mxGeometry width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F0cyMqDmB0AHEjMqEv3i-28" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;auひかり&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HomeGW&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" parent="Cqdr3iPlKtyxnXz1tikr-1" vertex="1">
