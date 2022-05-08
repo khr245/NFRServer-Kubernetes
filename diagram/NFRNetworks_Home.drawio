@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T09:30:58.242Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="jjdq73fEXaQe69wMusE9" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T09:31:10.890Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="0oP2tn7zi5YCFSFsIojy" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
     <mxGraphModel dx="493" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -498,7 +498,7 @@
           <mxGeometry x="690" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cud8JSi5Q64nd5TMTgj2-59" value="&lt;u&gt;IP:192.168.1.1&lt;br&gt;DHCP:192.168.1.11-254&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="145" y="510" width="150" height="30" as="geometry" />
+          <mxGeometry x="130" y="510" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
