@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T06:46:58.251Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="6atqdS0l7a6ATpdZTTNu" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T06:47:58.665Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="672xifu3VPjkXZdzCExD" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
     <mxGraphModel dx="493" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="F0cyMqDmB0AHEjMqEv3i-19" value="10G" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="F0cyMqDmB0AHEjMqEv3i-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F0cyMqDmB0AHEjMqEv3i-20" value="LAN" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="F0cyMqDmB0AHEjMqEv3i-18">
+        <mxCell id="F0cyMqDmB0AHEjMqEv3i-20" value="LAN" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;spacing=4;" connectable="0" vertex="1" parent="F0cyMqDmB0AHEjMqEv3i-18">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F0cyMqDmB0AHEjMqEv3i-21" value="GE0" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="F0cyMqDmB0AHEjMqEv3i-18">
@@ -63,7 +63,7 @@
         <mxCell id="F0cyMqDmB0AHEjMqEv3i-23" value="1G" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="F0cyMqDmB0AHEjMqEv3i-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F0cyMqDmB0AHEjMqEv3i-24" value="LAN" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="F0cyMqDmB0AHEjMqEv3i-22">
+        <mxCell id="F0cyMqDmB0AHEjMqEv3i-24" value="LAN" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;spacing=4;" connectable="0" vertex="1" parent="F0cyMqDmB0AHEjMqEv3i-22">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F0cyMqDmB0AHEjMqEv3i-25" value="GE1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="F0cyMqDmB0AHEjMqEv3i-22">
