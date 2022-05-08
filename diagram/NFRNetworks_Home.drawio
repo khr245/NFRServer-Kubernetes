@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T08:48:40.968Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="5NOFvcBN0AcCcKW3hkl6" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T08:52:49.402Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="HBc-A11YgVZMkvdbkgXB" version="18.0.2" type="github">
   <diagram id="IVtER8iOa4Ks5zT8WiCw" name="HomeNetwork">
-    <mxGraphModel dx="493" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="239" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,6 +404,18 @@
         </mxCell>
         <mxCell id="cud8JSi5Q64nd5TMTgj2-35" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=#FFFFFF;fontSize=11;fontColor=#FF0000;fillColor=default;" vertex="1" parent="cud8JSi5Q64nd5TMTgj2-37">
           <mxGeometry x="10" y="7.2999999999999545" width="45.4" height="45.4" as="geometry" />
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-38" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=3;endFill=0;exitX=0.932;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0cyMqDmB0AHEjMqEv3i-83" target="cud8JSi5Q64nd5TMTgj2-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269.65999999999997" y="526.29" as="sourcePoint" />
+            <mxPoint x="450" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="453" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cud8JSi5Q64nd5TMTgj2-39" value="10G" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cud8JSi5Q64nd5TMTgj2-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
